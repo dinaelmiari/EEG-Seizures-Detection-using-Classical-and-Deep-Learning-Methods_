@@ -85,4 +85,3 @@ Each segment represents a short EEG window, sampled at 256 Hz.
 * CSP heatmaps showed highest contribution from channels 9 and 16.
 * Temporal CSP analysis confirmed discriminative activity in the middle of the trial (~sample 128).
 
-
